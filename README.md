@@ -1,5 +1,5 @@
 # Timer
-A simple timer made using HTML+CSS+Javascript
+A simple timer made using HTML+CSS+Javascript.
 
 Screenshot
 
